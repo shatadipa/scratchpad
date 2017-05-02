@@ -1,4 +1,4 @@
-#Setting up Appium on Mac
+# Setting up Appium on Mac
 
 ## Install HomeBrew
 `HomeBrew` is a package manager for OS X. Once installed it can help to install other packages that we will need during our setup.
